@@ -1,3 +1,6 @@
+IMPORTANTE: Por conta de problemas de compatibilidade, o crud esta em "NovaBranch", e o React em "master"
+
+
 [ Banco de dados  ]
 
 - Ajustes no modelo físico (SQL) e seus relacionamentos se houver necessidades ou criar a base de dados usando o ORM (Object-Relational Mapping ou em português mapeamento objeto-   relacional).  
